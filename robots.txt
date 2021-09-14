@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://mzrithm.github.io/sitemap.xml
