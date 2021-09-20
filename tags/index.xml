@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Chicken Scratch &amp; Code</title>
+    <title>Tags on Chicken Scratch &amp; Code - a blog by Michelle Zelechoski</title>
     <link>https://mzrithm.github.io/tags/</link>
-    <description>Recent content in Tags on Chicken Scratch &amp; Code</description>
+    <description>Recent content in Tags on Chicken Scratch &amp; Code - a blog by Michelle Zelechoski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://mzrithm.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>

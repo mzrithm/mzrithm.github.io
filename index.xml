@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chicken Scratch &amp; Code</title>
+    <title>Chicken Scratch &amp; Code - a blog by Michelle Zelechoski</title>
     <link>https://mzrithm.github.io/</link>
-    <description>Recent content on Chicken Scratch &amp; Code</description>
+    <description>Recent content on Chicken Scratch &amp; Code - a blog by Michelle Zelechoski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 14 Sep 2021 11:40:35 -0700</lastBuildDate>
@@ -18,11 +18,13 @@
       
       <guid>https://mzrithm.github.io/about/</guid>
       
-        <description>Hey, there. I&amp;rsquo;m Michelle Zelechoski.
-I&amp;rsquo;m an artist, writer, and budding programmer. I&amp;rsquo;m currently studying Computer Science at Oregon State University and I live in the Greater Seattle Area.
-I spend my free time writing code in Python, playing with my dog, and caring for my flock of chickens.
-print(&amp;quot;Hello, World!&amp;quot;)
-Thanks for being here!</description>
+        <description>&lt;p&gt;&lt;img src=&#34;https://mzrithm.github.io/image/about_pic.png&#34; alt=&#34;Michelle Zelechoski with chicken, MJ&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Hey, there. I&amp;rsquo;m Michelle Zelechoski.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m an artist, writer, and budding programmer. I&amp;rsquo;m currently studying Computer Science at Oregon State University and I live in the Greater Seattle Area.&lt;/p&gt;
+&lt;p&gt;I spend my free time writing code in Python, playing with my dog, and caring for my flock of chickens.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;print(&amp;quot;Hello, World!&amp;quot;)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Thanks for being here!&lt;/p&gt;
+</description>
       
     </item>
     
@@ -33,7 +35,9 @@ Thanks for being here!</description>
       
       <guid>https://mzrithm.github.io/post/test-post/</guid>
       
-        <description>This site is under construction, but ultimately it will be a place for me to talk about my coding journey, about my transition from working as a full-time artist to working in tech, and about other things going on in my life (including my chickens).</description>
+        <description>&lt;p&gt;&lt;img src=&#34;https://mzrithm.github.io/image/chicken_code_final.png&#34; alt=&#34;Chicken Scratch &amp; Code&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This site is under construction, but ultimately it will be a place for me to talk about my coding journey, about my transition from working as a full-time artist to working in tech, and about other things going on in my life (including my chickens).&lt;/p&gt;
+</description>
       
     </item>
     
