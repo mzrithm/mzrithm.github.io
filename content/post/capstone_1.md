@@ -26,6 +26,8 @@ mathjax: false
 #   main:
 #     parent: "docs"
 #     weight: 1
+
+# Image source: https://pixabay.com/vectors/confusion-left-right-straight-311388/
 ---
 ![Image of person on questionable path.](/image/confusion.png)
 
