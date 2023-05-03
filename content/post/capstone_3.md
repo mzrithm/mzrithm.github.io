@@ -1,8 +1,8 @@
 ---
 title: "My Capstone: The Perilous Inward Journey"
 date: 2023-05-03T09:11:08-07:00
-lastmod: 2023-05-03T09:11:08-07:00
-draft:
+#lastmod: 2023-05-03T09:11:08-07:00
+draft: false
 keywords: []
 description: ""
 tags: []
